@@ -30,7 +30,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 * Nicolás Lerible
 * Anabel Castejón 
-* Esteban Quito
+* Jonathan Rosas
 
 ## Lenguaje de programación
 
@@ -38,7 +38,7 @@ El profesor llevará una cajita llena de papelitos con los nombres de distintos 
 
 Escribe el lenguaje de programación elegido por el grupo.
 
-* Mi lenguaje
+* Coffeescript
 
 Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
