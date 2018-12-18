@@ -59,7 +59,10 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 ### 1. ¡Hola mundo!
 
-![Hola Mundo](desktop/holaMundo.png)
+
+<div align="center">
+    <img src="/holaMundo.png" width="400px"</img> 
+</div>
 
 ### 2. Pirámide
 
