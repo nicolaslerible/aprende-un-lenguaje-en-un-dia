@@ -61,7 +61,7 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 
 <div align="center">
-    <img src="/02- Anabel/imagenes/holaMundo.png">
+    <img src="/imagenes/holaMundo.png" width="400px"</img>
 </div>
 
 ### 2. Pirámide
