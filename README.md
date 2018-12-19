@@ -69,8 +69,10 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 </div>
 
 ### 2. Pirámide
-
-Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+<div align="center">
+    <img src="piramide_source.PNG">
+    <img src="piramide.PNG">
+</div>
 
 ### 3. Arrays y números aleatorios
 
