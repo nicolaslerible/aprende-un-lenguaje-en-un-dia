@@ -70,8 +70,8 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 ### 2. Pirámide
 <div align="center">
-    <img src="piramide_source.PNG"><br>
-    <img src="piramide.PNG">
+    <img src="piramide_source2.PNG"><br>
+    <img src="piramide2.PNG">
 </div>
 
 ### 3. Arrays y números aleatorios
