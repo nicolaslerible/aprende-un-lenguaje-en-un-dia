@@ -59,7 +59,7 @@ Las principales ventajas que tiene coffeescript son:
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
-Con respecto al software utilizado para el codigo, utilizamos un entorno online capaz de compilar el codigo en la pagina oficial de [coffeescript](https://coffeescript.org/#try:con%20%3D%206%0Aalert%20Math.round(Math.random()*100)%20while%20con%20-%3D%200%0A) 
+Con respecto al software utilizado para el codigo, utilizamos un entorno online capaz de compilar el codigo en la pagina oficial de [coffeescript](https://coffeescript.org/#try:%0A) 
 
 ## Poniendo en práctica el lenguaje
 
