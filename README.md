@@ -47,6 +47,9 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
 CoffeScript es un pequeño lenguaje que es capaz de compilar en JavaScript, el objetivo de este lenguajes es exponer de forma simple el código JavaScritp. Basicamente, se trata de una reescritura sintactica de JavaScript muy parecida a lenguajes modernos como Python o Ruby.
+Las principales ventajas que tiene coffeescript son:
+- Permite trabajar el codigo javascriptde formas mas sencilla y limpia
+- Precisa de menos cantidad de codigo haciendo mas legible el resultado
 <div align="center">
     <img src="descarga.jpg">
 </div>
